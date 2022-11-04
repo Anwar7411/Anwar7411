@@ -41,42 +41,35 @@
 <br/>
   <h1 align="center">My Works and Contributions</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Shoppify;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Blue-Fly;)](https://git.io/typing-svg)
 
-git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
+git-repo link : https://github.com/Anwar7411/direful-order-8525
     <br/>
-visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel.app/)
+visit : https://wondrous-marigold-ae1bc8.netlify.app/home.html
 <br/>
 <br/>
 <br/>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=bewkoof.com;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=DNA;)](https://git.io/typing-svg)
 
-git-repo link : https://github.com/reeteshin/bewakoof
+git-repo link : https://github.com/Anwar7411/-dangerous-powder-9842/tree/main/rct101
 <br/>
-visit : https://bewakoof-tawny.vercel.app/
+visit :https://anwarbly7411-gmail-com-makes-great-sites-bafa1.netlify.app/Login
 <br/>
   <br/>
   <br/>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Todo+App;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Deccan+Chronicle;)](https://git.io/typing-svg)
 
-git-repo link : https://github.com/sandeepKumarMurmu/todo
+git-repo link :https://github.com/Anwar7411/fun-trees-7619
   <br/>
-visit : https://todo-omega-two.vercel.app/
+visit : https://benevolent-conkies-f99195.netlify.app/
 <br/>
   <br/>
   <br/>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Recipe+App;)](https://git.io/typing-svg)
-
-git-repo link : https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe
-  <br/>
-visit : https://recipe-puce.vercel.app/
-<br/>
-<br/>
-<br/>
+  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
