@@ -11,9 +11,11 @@
 ✍️ &nbsp;In my free time, I spend quality time with family and friends.\
 ✉️ &nbsp;You can shoot me an email at bashaa7411@gmail.com! I'll reply as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eoYAN2lwLjp7jPTgXW5uuuWGB5t9WEqn/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-<p> My Hobies</p>
+## My Hobies / Interest
  <ul>  
   <li> Reading Newspaper</li>
+  <li>Cycling</li>
+  <li>Playing Volleyball</li>
   <li> I love to travel</li>
 </ul>
 
