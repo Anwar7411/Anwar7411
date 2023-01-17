@@ -61,6 +61,16 @@
 <br/>
   <h1 align="center">My Works and Contributions</h1>
   
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Xiaomi+India;)](https://git.io/typing-svg)
+
+git-repo link : https://github.com/Anwar7411/MI_Store
+<br/>
+visit : https://warm-sprinkles-adcbba.netlify.app/
+<br/>
+  <br/>
+  <br/>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Blue-Fly;)](https://git.io/typing-svg)
 
 git-repo link : https://github.com/Anwar7411/direful-order-8525
@@ -70,15 +80,6 @@ visit : https://wondrous-marigold-ae1bc8.netlify.app/home.html
 <br/>
 <br/>
 
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=DNA;)](https://git.io/typing-svg)
-
-git-repo link : https://github.com/Anwar7411/-dangerous-powder-9842/tree/main/rct101
-<br/>
-visit :https://anwarbly7411-gmail-com-makes-great-sites-bafa1.netlify.app/Login
-<br/>
-  <br/>
-  <br/>
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Deccan+Chronicle;)](https://git.io/typing-svg)
 
