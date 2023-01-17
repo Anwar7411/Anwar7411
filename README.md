@@ -10,7 +10,7 @@
 🌱 &nbsp;Still I'm on track for learning more about web-development, UI-design, and Back-end.\
 ✍️ &nbsp;In my free time, I spend quality time with family and friends.\
 ✉️ &nbsp;You can shoot me an email at bashaa7411@gmail.com! I'll reply as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1A-UBJVzQyQwd_-H-p6hUIdqvhLJw2yOl/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1uFgVoKrEssVTdfdn02prSTBMk5RjqtA9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 ## My Hobies / Interest
  <ul>  
   <li> Reading Newspaper</li>
